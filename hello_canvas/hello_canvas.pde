@@ -4,7 +4,7 @@ void setup(){
 }
 void draw(){
   //adding some background color to the page 
-  background(#050505);
+  background(#ED13E3);
   
   fill(#14F524);
   rect(100,100,200,150);
